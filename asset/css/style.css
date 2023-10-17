@@ -54,3 +54,13 @@ html{
 h2 span{
     color: var(--secondary);
 }
+
+.map-iframe {
+    height: 300px; /* Tentukan tinggi peta sesuai kebutuhan Anda */
+}
+
+@media (max-width: 767px) {
+    .map-iframe {
+        height: 200px; /* Atur tinggi peta untuk layar mobile */
+    }
+}
