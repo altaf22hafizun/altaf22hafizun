@@ -12,7 +12,7 @@ Desain Antarmuka Pengguna (UI/UX)
 ### Kontak Saya 
 Jika Anda tertarik untuk berkolaborasi atau memiliki pertanyaan tentang pengembangan web atau aplikasi mobile, jangan ragu untuk menghubungi saya melalui Instagram : https://www.instagram.com/altaf22hafizun/ atau melalui LinkedIn : https://www.linkedin.com/in/altaf22hafizun/.
 
-Terima kasih atas kunjungan Anda!
+### Terima kasih atas kunjungan Anda!
 
 
 
